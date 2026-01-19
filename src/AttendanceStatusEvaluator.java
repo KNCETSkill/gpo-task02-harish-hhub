@@ -8,4 +8,7 @@ public class Adnence{
       system.out.print("Excellent");
     }
     else if(a<60){
-      system.out.print("
+      system.out.print("Poor");
+    }
+    else{
+      system.out.print("Satisfact
