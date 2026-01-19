@@ -7,4 +7,5 @@ public class Adnence{
       if(a>85){
       system.out.print("Excellent");
     }
-    else if(a
+    else if(a<60){
+      system.out.print("
