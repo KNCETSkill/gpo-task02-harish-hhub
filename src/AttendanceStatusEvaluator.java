@@ -14,3 +14,4 @@ public class AttendanceStatusEvaluator{
       System.out.print("Satisfactory");
     }
   }
+}
