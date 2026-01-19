@@ -5,4 +5,6 @@ public class Adnence{
     Scanner sc =new scanner(system.in);
     int a = sc.nextInt()
       if(a>85){
-      system.out.print(
+      system.out.print("Excellent");
+    }
+    else if(a
