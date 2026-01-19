@@ -3,5 +3,6 @@ public class Adnence{
   public static void main(string[] args)
   {
     Scanner sc =new scanner(system.in);
-    int a = sc.next()
-      if(a
+    int a = sc.nextInt()
+      if(a>85){
+      system.out.print(
