@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class Adnence{
-  public static void main(string[] args)
+  public static void main(String args[])
   {
-    Scanner sc =new scanner(system.in);
+    Scanner sc =new Scanner(system.in);
     int a = sc.nextInt()
       if(a>85){
       system.out.print("Excellent");
@@ -13,5 +13,4 @@ public class Adnence{
     else{
       system.out.print("Satisfactory");
     }
-    system.close();
   }
