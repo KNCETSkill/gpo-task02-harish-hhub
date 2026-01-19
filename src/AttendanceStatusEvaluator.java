@@ -11,4 +11,7 @@ public class Adnence{
       system.out.print("Poor");
     }
     else{
-      system.out.print("Satisfact
+      system.out.print("Satisfactory");
+    }
+    system.close();
+  }
